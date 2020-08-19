@@ -22,7 +22,7 @@ the notifications will be aborted.
 **2. Build and run the app using maven**
 
 ```bash
-cd WorkflowAssignment
+cd sample-workflow
 mvn clean package
 java -jar target/dz-0.0.1-SNAPSHOT.jar
 ```
